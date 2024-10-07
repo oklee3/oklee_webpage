@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #494f55;
+    color: white;
+}
+
+.section {
+    padding: 40px 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #343a40;
+    color: white;
+}
